@@ -1,0 +1,23 @@
+1) What data do you collect, including but not limited to personal identifying information?
+
+  >  We only collect a Discord users unique ID, if you to interact with the bot.
+
+2) Why do you need the data?
+
+  > So the bot can remember who you are and offer a more personalised expirience.
+
+3) How do you use the data?
+
+  > We use your unique ID to keep track off your coffee beans (Bot currency), connect4 wins/losses/draws, virtual pet stats
+
+4) Other than Discord the company and users of your own bot, who do you share your collected data with?
+
+  > Nobody, this information is useless outside of the bot's ecosystem.
+
+5) How can users contact you with concerns?
+
+  > You can find us on our public discord server https://discord.gg/BzD38D9 or raise an issue here on github
+
+6) If you store data, how can users have that data removed?
+
+  > Just use the "forget-me" via the command `@chimame forget-me`. obviously you will lose all of your curency 
